@@ -1,0 +1,14 @@
+/styles/
+/static/
+/src/assets
+/src/style
+/dist
+*.scss
+*.css
+/.next
+next.config.js
+postcss.config.js
+/node_modules
+/config
+/scripts
+/build
